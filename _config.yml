@@ -107,8 +107,8 @@ author:
   name             : "Mohammadali Olyaei"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Spectral Signatures of Plastic Debris in MN"
-  location         : "Minneipolis, MN"
-  email            :
+  location         : "St. Anthony Falls Laboratory, University of Minnesota"
+  email            : "olyae001@umn.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
